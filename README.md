@@ -1,7 +1,7 @@
 #GhaziahShoeb
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Hi!%20I'm%20Ghaziah%20Shoeb%20👋&fontSize=50&fontColor=ffffff" alt="Header"/>
-  <h3 style="font-size: 1.5em; color: #4A4A4A;">Flutter and UI/UX Designer & Developer | Blockchain and AI Enthusiast</h3>
+  <h3 style="font-size: 1.5em; color: #4A4A4A;">Flutter and UI/UX Designer & Developer | Blockchain, Cybersecurity and AI Enthusiast</h3>
   <p style="font-style: italic; color: #6A6A6A;">"Inspired by a want to do something, to be someone, and to make something which leaves an impact"</p>
   <p style="font-size: 1.2em; font-weight: bold; color: #1E90FF;">"Zindagi lambi nhi, badi honi chahiye!" 😄</p>
 </div>
@@ -10,10 +10,10 @@
 
 ## 🚀 About Me
 - 🌟 Current Focus:  
-  Designing seamless user experiences with Flutter and exploring the frontiers of Blockchain and AI technology.
+   Breaking into Security, exploring the frontiers of Blockchain and AI technology,designing the best UI/UX experiences and overall problem solving.
 
 - 🎯 Passions:  
-  Merging creativity with functionality in UI/UX design and contributing to the advancement of impactful technologies.
+  Merging creativity with functionality in UI/UX design and contributing to the advancement of impactful technologies by securing systems.
 
 - 🥋 Hobbies:  
   A huge fan of UFC and inspired by the legendary Khabib Nurmagomedov.  
