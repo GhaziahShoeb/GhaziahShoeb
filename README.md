@@ -1,7 +1,6 @@
-# GhaziahShoeb
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Hi!%20I'm%20Ghaziah%20Shoeb%20👋&fontSize=50&fontColor=ffffff" alt="Header"/>
-  <h3 style="font-size: 1.5em; color: #4A4A4A;">Agentic AI & Machine Learning Developer | Cybersecurity & Blockchain Enthusiast</h3>
+  <h3 style="font-size: 1.5em; color: #4A4A4A;">Agentic AI & Machine Learning Engineer | Flutter & UI/UX Developer</h3>
   <p style="font-style: italic; color: #6A6A6A;">"Inspired by a want to do something, to be someone, and to make something which leaves an impact"</p>
   <p style="font-size: 1.2em; font-weight: bold; color: #1E90FF;">"Zindagi lambi nhi, badi honi chahiye!" 😄</p>
 </div>
@@ -9,10 +8,8 @@
 ---
 
 ## 🚀 About Me
-- 🌟 **Current Focus:** Building intelligent, multi-agent systems, leveraging Large Language Models (LLMs) and Generative AI, and exploring the intersections of AI, Cybersecurity, and Blockchain to solve critical global challenges.
-
-- 🎯 **Passions:** Developing personalized, scalable AI solutions, giving back to the community, contributing to open-source, and ensuring secure, impactful technology advancements.
-
+- 🌟 **Current Focus:** Architecting autonomous **Agentic AI systems**, training robust Machine Learning models, and exploring the frontiers of Natural Language Processing (NLP) while designing seamless UI/UX experiences.
+- 🎯 **Passions:** Building intelligent, multi-agent workflows that solve complex problems, and merging cutting-edge AI capabilities with intuitive, user-centric interfaces.
 - 🥋 **Hobbies:** A huge fan of UFC and inspired by the legendary Khabib Nurmagomedov.  
   Always striving to stay disciplined and resilient, both in work and life.
 
@@ -20,39 +17,39 @@
 
 ## 🛠 Tech Stack
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/AI_&_ML-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI & ML"/>
   
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white" alt="Blockchain"/>
-  <img src="https://img.shields.io/badge/CyberSecurity-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Cybersecurity"/>
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
 </div>
 
 ---
 
-## 🌟 Featured Projects
-Here are some of the key systems I've been building recently:
+## 🌟 What Inspires Me?
+I am inspired by a desire to do something, to be someone, and to make something that leaves an impact. My journey is fueled by creativity, curiosity, and a drive to contribute to meaningful advancements in artificial intelligence and technology.
 
-### 🤖 [Personal Tutor Agent](https://github.com/GhaziahShoeb/Personal_Tutor_Agent_With_Persistent_Memory) & [PhD Research Agent](https://github.com/GhaziahShoeb/PhD_Supervisor_Research_Agent)
-LangGraph-based multi-agent systems featuring sophisticated long-term memory via the LangMem SDK and MongoDB. Built to act as highly personalized tutors and academic researchers by orchestrating complex state transitions and real-time data fetching using the Tavily Search API.
+---
 
-### 📝 [Joto – AI-Powered Study Companion](https://github.com/GhaziahShoeb/Joto-Codefest)
-An AI-powered study assistant built with TypeScript and Vite that uses Generative AI and LLMs to transform student notes into comprehensive, interactive, and personalized study materials.
+## ⚡ Upcoming Projects
+Here are some exciting projects I’m currently working on:
+
+### 🌐 AI-Powered Platform for Language and Software Preservation
+A platform utilizing **LLMs and autonomous agents** aimed at supporting under-developed and under-supported languages, as well as preserving legacy software that has been phased out.  
+This project is a step toward inclusivity in technology, ensuring that no language or software is left behind through the power of intelligent automation and NLP.
 
 ---
 
 <div align="center">
   <h2 style="color: #1E90FF;">🤝 Let’s Collaborate!</h2>
-  <p>I am excited to bring my expertise in Agentic AI, multi-agent systems, and Machine Learning to new challenges. Feel free to reach out if you'd like to work together or share amazing ideas.</p>
+  <p>I am excited to bring my expertise in Agentic workflows, ML, and UI/UX to new challenges. Feel free to reach out if you'd like to work together or share amazing ideas.</p>
 </div>
 
 ---
