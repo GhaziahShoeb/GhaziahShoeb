@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE (Health Informatics), VIT Bhopal 
+- 🎓 B.Tech CSE (Health Informatics), VIT Bhopal
 - 🤖 Focused on **Agentic AI, Multi-Agent Systems, and LLM-powered applications**
 - ⚡ Experienced in building systems that reduce **hours of work into minutes**
 - 🧠 Strong interest in **RAG, reasoning workflows, and autonomous agents**
